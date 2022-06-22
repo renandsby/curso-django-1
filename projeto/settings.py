@@ -37,8 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
-
     'recipes',
 ]
 
@@ -59,7 +57,7 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
             BASE_DIR / 'base_template',
-            BASE_DIR / 'recipes' / 'template_temporario',
+            BASE_DIR / 'recipes' / 'templates_temp',
 
 
         ],
