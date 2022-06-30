@@ -1,4 +1,4 @@
-#!/Users/renanbraulio/Documents/CursoUdemy/curso-django-1/venv/bin/Python3
+#!/Users/renanbraulio/Documents/curso-django-1/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
